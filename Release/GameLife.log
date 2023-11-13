@@ -1,0 +1,9 @@
+﻿  Ruller.cpp
+C:\Users\Cаша\source\repos\GameLife\Ruller.cpp(206,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cаша\source\repos\GameLife\Ruller.cpp(217,40): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  2 of 411 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  GameLife.vcxproj -> C:\Users\Cаша\source\repos\GameLife\Release\GameLife.exe
